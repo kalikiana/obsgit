@@ -10,7 +10,7 @@ OBS server.
 Install `obsgit` using Python Pip:
 
 ```bash
-pip install git+https://github.com/aplanas/obsgit.git
+pip install git+https://github.com/openSUSE/obsgit.git
 ```
 
 After installed, `obsgit` will be registered as a command-line tool.
